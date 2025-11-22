@@ -1,20 +1,120 @@
 {
   "photos": [
-    // Álbum 31 (Primeiro álbum da Usuária ID 4) - 5 fotos
-    { "albumId": 31, "id": 101, "title": "Foto 1 do Album 31", "url": "https://picsum.photos/600/600?random=101", "thumbnailUrl": "https://picsum.photos/150/150?random=101" },
-    { "albumId": 31, "id": 102, "title": "Foto 2 do Album 31", "url": "https://picsum.photos/600/600?random=102", "thumbnailUrl": "https://picsum.photos/150/150?random=102" },
-    { "albumId": 31, "id": 103, "title": "Foto 3 do Album 31", "url": "https://picsum.photos/600/600?random=103", "thumbnailUrl": "https://picsum.photos/150/150?random=103" },
-    { "albumId": 31, "id": 104, "title": "Foto 4 do Album 31", "url": "https://picsum.photos/600/600?random=104", "thumbnailUrl": "https://picsum.photos/150/150?random=104" },
-    { "albumId": 31, "id": 105, "title": "Foto 5 do Album 31", "url": "https://picsum.photos/600/600?random=105", "thumbnailUrl": "https://picsum.photos/150/150?random=105" },
-
-    // Álbum 32 (Segundo álbum da Usuária ID 4) - 5 fotos
-    { "albumId": 32, "id": 106, "title": "Foto 1 do Album 32", "url": "https://picsum.photos/600/600?random=106", "thumbnailUrl": "https://picsum.photos/150/150?random=106" },
-    { "albumId": 32, "id": 107, "title": "Foto 2 do Album 32", "url": "https://picsum.photos/600/600?random=107", "thumbnailUrl": "https://picsum.photos/150/150?random=107" },
-    { "albumId": 32, "id": 108, "title": "Foto 3 do Album 32", "url": "https://picsum.photos/600/600?random=108", "thumbnailUrl": "https://picsum.photos/150/150?random=108" },
-    { "albumId": 32, "id": 109, "title": "Foto 4 do Album 32", "url": "https://picsum.photos/600/600?random=109", "thumbnailUrl": "https://picsum.photos/150/150?random=109" },
-    { "albumId": 32, "id": 110, "title": "Foto 5 do Album 32", "url": "https://picsum.photos/600/600?random=110", "thumbnailUrl": "https://picsum.photos/150/150?random=110" },
+    // ------------------------------------------------------------------
+    // Álbum ID 11 (corresponde ao primeiro álbum do Usuário 2) - 5 fotos
+    // ------------------------------------------------------------------
+    {
+      "albumId": 11,
+      "id": 1101,
+      "title": "Mountain path after rain",
+      "url": "https://picsum.photos/600/600?random=1101",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=1101"
+    },
+    {
+      "albumId": 11,
+      "id": 1102,
+      "title": "Abstract red and purple gradient",
+      "url": "https://picsum.photos/600/600?random=1102",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=1102"
+    },
+    {
+      "albumId": 11,
+      "id": 1103,
+      "title": "Woman smiling in the sun",
+      "url": "https://picsum.photos/600/600?random=1103",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=1103"
+    },
+    {
+      "albumId": 11,
+      "id": 1104,
+      "title": "View from above of a coffee cup",
+      "url": "https://picsum.photos/600/600?random=1104",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=1104"
+    },
+    {
+      "albumId": 11,
+      "id": 1105,
+      "title": "Ocean waves crashing on rocks",
+      "url": "https://picsum.photos/600/600?random=1105",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=1105"
+    },
     
-    { "albumId": 35, "id": 111, "title": "Album 35 de Teste", "url": "https://picsum.photos/600/600?random=111", "thumbnailUrl": "https://picsum.photos/150/150?random=111" }
+    // ------------------------------------------------------------------
+    // Álbum ID 12 (corresponde ao segundo álbum do Usuário 2) - 5 fotos
+    // ------------------------------------------------------------------
+    {
+      "albumId": 12,
+      "id": 1201,
+      "title": "Architecture details in black and white",
+      "url": "https://picsum.photos/600/600?random=1201",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=1201"
+    },
+    {
+      "albumId": 12,
+      "id": 1202,
+      "title": "Dolphin jumping out of the water",
+      "url": "https://picsum.photos/600/600?random=1202",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=1202"
+    },
+    {
+      "albumId": 12,
+      "id": 1203,
+      "title": "Night city skyline",
+      "url": "https://picsum.photos/600/600?random=1203",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=1203"
+    },
+    {
+      "albumId": 12,
+      "id": 1204,
+      "title": "Close-up of a fox in a field",
+      "url": "https://picsum.photos/600/600?random=1204",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=1204"
+    },
+    {
+      "albumId": 12,
+      "id": 1205,
+      "title": "Vibrant pink flowers",
+      "url": "https://picsum.photos/600/600?random=1205",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=1205"
+    },
     
+    // ------------------------------------------------------------------
+    // Álbum ID 13 (corresponde ao terceiro álbum do Usuário 2) - 5 fotos
+    // ------------------------------------------------------------------
+    {
+      "albumId": 13,
+      "id": 1301,
+      "title": "Old town street view",
+      "url": "https://picsum.photos/600/600?random=1301",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=1301"
+    },
+    {
+      "albumId": 13,
+      "id": 1302,
+      "title": "Green moss on a rock",
+      "url": "https://picsum.photos/600/600?random=1302",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=1302"
+    },
+    {
+      "albumId": 13,
+      "id": 1303,
+      "title": "Lighthouse on a cliff",
+      "url": "https://picsum.photos/600/600?random=1303",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=1303"
+    },
+    {
+      "albumId": 13,
+      "id": 1304,
+      "title": "Desert landscape with moon",
+      "url": "https://picsum.photos/600/600?random=1304",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=1304"
+    },
+    {
+      "albumId": 13,
+      "id": 1305,
+      "title": "Person working on laptop",
+      "url": "https://picsum.photos/600/600?random=1305",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=1305"
+    }
   ]
 }
