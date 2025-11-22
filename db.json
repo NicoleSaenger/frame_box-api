@@ -36,6 +36,41 @@
       "thumbnailUrl": "https://picsum.photos/150/150?random=1105"
     },
     {
+      "albumId": 11,
+      "id": 6,
+      "title": "Novo Título para Album 11 Foto 6",
+      "url": "https://via.placeholder.com/600/f66b97",
+      "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+    },
+    {
+      "albumId": 11,
+      "id": 7,
+      "title": "Novo Título para Album 11 Foto 7",
+      "url": "https://via.placeholder.com/600/56a8c2",
+      "thumbnailUrl": "https://via.placeholder.com/150/56a8c2"
+    },
+    {
+      "albumId": 11,
+      "id": 8,
+      "title": "Novo Título para Album 11 Foto 8",
+      "url": "https://via.placeholder.com/600/b0f7cc",
+      "thumbnailUrl": "https://via.placeholder.com/150/b0f7cc"
+    },
+    {
+      "albumId": 11,
+      "id": 9,
+      "title": "Novo Título para Album 11 Foto 9",
+      "url": "https://via.placeholder.com/600/54176f",
+      "thumbnailUrl": "https://via.placeholder.com/150/54176f"
+    },
+    {
+      "albumId": 11,
+      "id": 10,
+      "title": "Novo Título para Album 11 Foto 10",
+      "url": "https://via.placeholder.com/600/51aa97",
+      "thumbnailUrl": "https://via.placeholder.com/150/51aa97"
+    },
+    {
       "albumId": 12,
       "id": 1201,
       "title": "Architecture details in black and white",
@@ -69,6 +104,41 @@
       "title": "Vibrant pink flowers",
       "url": "https://picsum.photos/600/600?random=1205",
       "thumbnailUrl": "https://picsum.photos/150/150?random=1205"
+    },
+    {
+      "albumId": 12,
+      "id": 11,
+      "title": "Novo Título para Album 12 Foto 6",
+      "url": "https://via.placeholder.com/600/594fe3",
+      "thumbnailUrl": "https://via.placeholder.com/150/594fe3"
+    },
+    {
+      "albumId": 12,
+      "id": 12,
+      "title": "Novo Título para Album 12 Foto 7",
+      "url": "https://via.placeholder.com/600/6f9af0",
+      "thumbnailUrl": "https://via.placeholder.com/150/6f9af0"
+    },
+    {
+      "albumId": 12,
+      "id": 13,
+      "title": "Novo Título para Album 12 Foto 8",
+      "url": "https://via.placeholder.com/600/4096d1",
+      "thumbnailUrl": "https://via.placeholder.com/150/4096d1"
+    },
+    {
+      "albumId": 12,
+      "id": 14,
+      "title": "Novo Título para Album 12 Foto 9",
+      "url": "https://via.placeholder.com/600/d5924b",
+      "thumbnailUrl": "https://via.placeholder.com/150/d5924b"
+    },
+    {
+      "albumId": 12,
+      "id": 15,
+      "title": "Novo Título para Album 12 Foto 10",
+      "url": "https://via.placeholder.com/600/29e2fa",
+      "thumbnailUrl": "https://via.placeholder.com/150/29e2fa"
     },
     {
       "albumId": 13,
