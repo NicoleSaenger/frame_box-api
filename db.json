@@ -1,8 +1,5 @@
 {
   "photos": [
-    // ------------------------------------------------------------------
-    // Álbum ID 11 (corresponde ao primeiro álbum do Usuário 2) - 5 fotos
-    // ------------------------------------------------------------------
     {
       "albumId": 11,
       "id": 1101,
@@ -38,10 +35,6 @@
       "url": "https://picsum.photos/600/600?random=1105",
       "thumbnailUrl": "https://picsum.photos/150/150?random=1105"
     },
-    
-    // ------------------------------------------------------------------
-    // Álbum ID 12 (corresponde ao segundo álbum do Usuário 2) - 5 fotos
-    // ------------------------------------------------------------------
     {
       "albumId": 12,
       "id": 1201,
@@ -77,10 +70,6 @@
       "url": "https://picsum.photos/600/600?random=1205",
       "thumbnailUrl": "https://picsum.photos/150/150?random=1205"
     },
-    
-    // ------------------------------------------------------------------
-    // Álbum ID 13 (corresponde ao terceiro álbum do Usuário 2) - 5 fotos
-    // ------------------------------------------------------------------
     {
       "albumId": 13,
       "id": 1301,
